@@ -1779,7 +1779,7 @@ body {
 .cid-rjj4lwyCDx {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/smoothie-hero-image-1920x1079.jpg");
 }
 .cid-rjj4qD0oQ7 {
   padding-top: 30px;
@@ -1787,14 +1787,15 @@ body {
   background-color: #ffffff;
 }
 .cid-rjj4qD0oQ7 .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #cc2952;
+  color: #cc2952;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rjj4qD0oQ7 .section-text {
   padding: 2rem 0;
+  color: #cc2952;
 }
 .cid-rjj4qD0oQ7 .inner-container {
   margin: 0 auto;
@@ -1807,7 +1808,7 @@ body {
 .cid-rjj4HOrbaQ {
   padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f77bb6;
 }
 .cid-rjj4HOrbaQ h2 {
   text-align: left;
@@ -1866,10 +1867,13 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rjj4HOrbaQ .mbr-text {
+  color: #232323;
+}
 .cid-rjj4K9rDHc {
   padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #93edc3;
 }
 .cid-rjj4K9rDHc h2 {
   text-align: left;
@@ -1940,10 +1944,13 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rjj4K9rDHc .mbr-text {
+  color: #232323;
+}
 .cid-rjj4KN4TYy {
   padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #a287ca;
 }
 .cid-rjj4KN4TYy h2 {
   text-align: left;
@@ -2002,10 +2009,13 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rjj4KN4TYy .mbr-text {
+  color: #232323;
+}
 .cid-rjj4LmygdS {
   padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #e7e78c;
 }
 .cid-rjj4LmygdS h2 {
   text-align: left;
@@ -2076,20 +2086,24 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rjj4LmygdS .mbr-text {
+  color: #232323;
+}
 .cid-rjj4Q0p0PZ {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rjj4Q0p0PZ .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #ff3366;
+  color: #ff3366;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rjj4Q0p0PZ .section-text {
   padding: 2rem 0;
+  color: #ff3366;
 }
 .cid-rjj4Q0p0PZ .inner-container {
   margin: 0 auto;
@@ -2229,6 +2243,6 @@ body {
 }
 .cid-rjj58BHXw3 {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/footer-ibat-college-996x566.jpg");
 }
